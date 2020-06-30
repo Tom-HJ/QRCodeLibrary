@@ -1,0 +1,2 @@
+# QRCodeLibrary
+QRCodeLibrary for Unity
